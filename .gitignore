@@ -6,4 +6,4 @@ yarn.lock
 src/database/database.sqlite
 
 # Environment Variables
-.env.local
+.env
